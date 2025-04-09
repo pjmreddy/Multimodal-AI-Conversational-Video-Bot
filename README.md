@@ -40,7 +40,7 @@ The system combines several cutting-edge components:
 5. **LangChain**: Powers the conversational interface and query processing
 
 ## Demo Output
-![Live Demo](output.jpg)
+![Live Demo](Output.jpg)
 
 
 ## 📦 Installation
