@@ -52,8 +52,8 @@ The system combines several cutting-edge components:
 ### Setup
 1. Clone the repository
 ```bash
-git clone https://github.com/pjmreddy/Multimodal-RAG-Conversational-Video-Bot.git
-cd Multimodal-RAG-Conversational-Video-Bot
+git clone https://github.com/pjmreddy/Multimodal-AI-Conversational-Video-Bot
+cd Multimodal-AI-Conversational-Video-Bot
 ```
 
 2. Install dependencies
