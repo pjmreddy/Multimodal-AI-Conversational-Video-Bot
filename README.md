@@ -39,6 +39,10 @@ The system combines several cutting-edge components:
 4. **LLaVA 1.5**: Enables sophisticated image captioning
 5. **LangChain**: Powers the conversational interface and query processing
 
+## Demo Output
+![Live Demo](output.jpg)
+
+
 ## 📦 Installation
 
 ### Prerequisites
